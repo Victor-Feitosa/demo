@@ -1,0 +1,37 @@
+/* Estilo para a área do formulário */
+#atendimentoForm {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+/* Estilo para o título do formulário */
+h1 {
+  color: #333;
+}
+
+/* Estilo para os campos do formulário */
+.form-control {
+  margin-bottom: 15px;
+}
+
+/* Estilo para o botão de envio */
+.btn-primary {
+  width: 100%;
+}
+
+/* Estilo para a área de exibição das informações */
+#infoDisplay {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+/* Estilo para os itens da lista de informações */
+.list-group-item {
+  background-color: transparent;
+  border: none;
+}
