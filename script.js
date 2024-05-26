@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <br>
           <strong>CLÁUSULA 1 - DO OBJETO</strong><br>
           <br>          
-          O presente contrato tem por objeto a autorização do uso da imagem do(a) Sr(a). ${nome} para propaganda de jogo do tigrinho.<br>
+          O presente contrato tem por objeto a autorização do uso da imagem do(a) Sr(a). ${nome} para propaganda de teste.<br>
           <br>
           <strong>CLÁUSULA 2 - DA AUTORIZAÇÃO</strong><br>
           <br>
